@@ -1,55 +1,45 @@
-# Terra Nova Restore
+# FerrAI–Terra'Nova CIC Framework — System Architecture, State Logic and Governance Boundaries
 
-A small, transparent research-and-engineering shop building **Terra Nova / FerrAI**:
-a meta-framework for working with knowledge, structure, and AI systems without
-losing the human in the loop.
+The public research-and-engineering surface of Terra Nova Restore.
 
-Run by [Silvan Lenhard](https://github.com/silvan-lenhard) — 15 years as a Schreiner
-(craftsman) before turning the same patience and tolerance discipline onto
-software, governance, and cognitive architectures.
+FerrAI–Terra'Nova CIC is a framework for human–AI cooperation, system
+architecture, state logic, and governance boundaries.
 
----
+## Canonical release
 
-## Current published release
-
-**RC01-v12** — Terra Nova / FerrAI core framework, citable on Zenodo:
-
-- DOI: [`10.5281/zenodo.20073579`](https://doi.org/10.5281/zenodo.20073579)
-- Mirror in repo: `releases/zenodo/rc01-v12-2026-05-07/`
-
-This is the stable reference point. Everything in active repos either
-implements, extends, or audits against this anchor.
-
----
-
-## What lives here
-
-| Repo | Role |
+| Field | Value |
 |---|---|
-| [`TerraNova-s-Framework`](https://github.com/Terra-Nova-Restore/TerraNova-s-Framework) | Main public repo · framework source, governance docs, Notion → GitHub sync controller, Atlas |
-| `.github` (this one) | Org profile |
+| Version | `v16` |
+| Creator | Lenhard, Silvan |
+| ORCID | [0009-0007-8033-3508](https://orcid.org/0009-0007-8033-3508) |
+| Publication date | `2026-06-17` |
+| License | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Record DOI | [10.5281/zenodo.20732376](https://doi.org/10.5281/zenodo.20732376) |
+| Concept DOI | [10.5281/zenodo.19774446](https://doi.org/10.5281/zenodo.19774446) |
+| Primary file | `main_v16_cq_ct_candidate (1).pdf` |
+| Extent | 713 pages |
 
-Other repos are scratch, mirrors, or templates — not yet promoted to public surface.
+Zenodo is the citable reference anchor. No GitHub mirror of the v16
+publication is claimed here.
 
----
+## Public GitHub surface
 
-## How we work
+- [TerraNova-s-Framework](https://github.com/Terra-Nova-Restore/TerraNova-s-Framework)
+  — public technical surface and implementation history.
+- [.github](https://github.com/Terra-Nova-Restore/.github)
+  — organization profile and shared community defaults.
 
-Three layers, on purpose:
+## Three-layer model
 
-- **Notion** — System of Record. Living thinking, drafts, decisions in flight.
-- **GitHub** — Working State. PRs as proof, Issues as the audit spine, releases as anchors.
-- **Zenodo** — Reference Anchor. Long-term citable, content-addressed.
+- **Notion** — semantic source of record for governed context and decisions.
+- **GitHub** — versioned technical implementation and review surface.
+- **Zenodo** — citable reference anchor for approved public releases.
 
-Public-facing artifacts go through a review gate before they leave the
-working state. Mistakes get logged, not hidden — see the governance docs in
-the main repo if that interests you.
+## Public boundary
 
----
+No credentials or raw private workspace exports are intentionally published.
+The linked AI Workflow Starter is an intentionally public reader resource.
 
 ## Contact
 
-GitHub Issues on the main repo for anything substantive.
-For the people-stuff: through Silvan directly.
-
-_Last updated: 2026-05-21_
+Use the main repository's GitHub Issues for substantive questions.
